@@ -4,4 +4,6 @@
 ## 2⃣️ Recent development
 Over the last 60 or 70 years, AI technology has evolved a lot. But its key technologies are still in the hands of tech giants, making it almost impossible for ordinary people to access them.
 ## 3⃣️About us
-Now, the ***"MOX Project"*** is going to change that and provide more opportunities for people who love robotics and AI technology (which means that the project is completely free and open source). But it requires more support and help **(not financial)**, and it doesn't require any basic programming (just writing simple dialogues)
+Now, the ***"MOX Project"*** is going to change that and provide more opportunities for people who love robotics and AI technology (which means that the project is completely free and open source). But it requires more support and help **(not financial)**, and it doesn't require any basic programming (just writing simple dialogues).
+
+***If you are interested, please click [How to start](https://github.com/zxm852/MOX-AIlearning/blob/Overview/How%20to%20do)***
