@@ -1,5 +1,5 @@
 # MOX-AIlearning
-**中文版请看这里[关于我们](https://github.com/MOX-AI/MOX-AIlearning/blob/0394868fdec29348ce166fb83631c1aa1b274b38/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.md)**
+**中文版请看这里:[关于我们](https://github.com/MOX-AI/MOX-AIlearning/blob/0394868fdec29348ce166fb83631c1aa1b274b38/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC.md)**
 ## 1⃣️ The development process
 ***Artificial intelligence technology*** has been around since the 1950s. It was first developed in 1955: Newell and Simon created a program called **"Logic Theor."** However, the term ***"AI"*** wasn't coined until 1956 at the Dartmouth Society
 ## 2⃣️ Recent development
