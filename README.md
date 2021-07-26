@@ -1,4 +1,5 @@
 # MOX-AIlearning
+中文版请看这里[关于我们](
 ## 1⃣️ The development process
 ***Artificial intelligence technology*** has been around since the 1950s. It was first developed in 1955: Newell and Simon created a program called **"Logic Theor."** However, the term ***"AI"*** wasn't coined until 1956 at the Dartmouth Society
 ## 2⃣️ Recent development
